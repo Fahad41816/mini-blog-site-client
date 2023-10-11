@@ -1,5 +1,6 @@
-# React + Vite + Redux-toolkit template
+## Site Details
 
-### use this template for Redux-toolkit(JavaScript) template in vite.
+### tecnology: React, Redux-toolkit, tailwind
+
 
  
