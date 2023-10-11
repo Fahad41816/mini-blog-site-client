@@ -3,7 +3,7 @@ import axios from "axios"
 
 
 const Axios = axios.create({
-    baseURL:"http://localhost:9000/"
+    baseURL:"https://mini-blog-site-server.onrender.com"
 })
 
 export default Axios
