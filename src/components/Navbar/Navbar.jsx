@@ -6,7 +6,7 @@ const Navbar = () => {
         <div className="navbar-container">
           {/* <!-- logo --> */}
           <div className="logo">
-            <img src="./images/LWSBlog.svg" alt="search" />
+            <img src="/favicon.ico" alt="search" />
           </div>
     
           {/* <!-- auth buttons , This will nonfunctional, just for nice looking --> */}
